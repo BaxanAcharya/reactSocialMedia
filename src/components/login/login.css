@@ -1,0 +1,11 @@
+.loginModal{
+    background-color: rgba(79, 155, 29, 0.301);
+}
+
+.modalMove{
+    padding-top: 70px;
+}
+
+.loginBack{
+    background: red;
+}
